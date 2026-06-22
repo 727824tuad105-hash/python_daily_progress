@@ -1,0 +1,7 @@
+name = "Kaviya"
+favorite_number = 3
+favorite_price_value = 7.67
+
+print("Name :",name)
+print("Favorite Number :",favorite_number)
+print("Price :",favorite_price_value)
