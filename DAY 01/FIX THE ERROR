@@ -1,0 +1,8 @@
+# age = "20"
+# next_age = age + 1
+# print(next_age)
+
+age = "20"
+b = int(age)
+next_age = b+1
+print(next_age)
