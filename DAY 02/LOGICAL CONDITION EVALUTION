@@ -1,0 +1,12 @@
+x = 10
+y = 5
+result = (x > y) and (y % 2 == 0) or (x == 10)
+print(result)
+
+
+
+#the result is true because
+#(x > y ) = ( 10 > 5 ) = True
+#(y % 2 == 0 ) = ( 5 % 2 == 0 ) = False 
+#(x == 10 ) = (10 == 10) = True 
+
